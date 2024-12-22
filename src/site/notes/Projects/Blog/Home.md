@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projects/blog/home/","title":"the deli","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/projects/blog/home/","title":"the deli","tags":["gardenEntry"],"created":"2024-12-22"}
 ---
 
 - 2024-December: 

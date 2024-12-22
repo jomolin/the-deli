@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"notes/testpost.md","permalink":"/notes/testpost/","title":"Test Post","tags":["notes"]}
+{"dg-publish":true,"dg-path":"notes/testpost.md","permalink":"/notes/testpost/","title":"Test Post","tags":["notes"],"created":"2024-12-22"}
 ---
 
 # Test Post
