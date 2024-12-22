@@ -18,5 +18,9 @@ What does a test post do?
 
 Below the break.
 
+```python
+print("hello world")
+```
+
 [^1]: Does this work?
 
